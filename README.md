@@ -1,5 +1,3 @@
-# Eric Jarvi
-
 ## Current interests
 
 - Regenerative software
