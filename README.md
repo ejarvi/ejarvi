@@ -2,7 +2,7 @@
 
 ## Current interests
 
-- Regenerative software and AI-augmented software engineering
+- Regenerative software
 - Application and cloud security
 - Modernizing the identity governance lifecycle
 - Cryptography and vulnerability research
